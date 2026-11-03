@@ -1,2 +1,10 @@
-# macOS Finder metadata
+# Folder view options and metadata
 .DS_Store
+**/.DS_Store
+
+# Apple Double files (created when files are moved to non-Mac volumes)
+._.DS_Store
+
+# Files that might be created on folder deletion
+.AppleDouble
+.LSOverride
